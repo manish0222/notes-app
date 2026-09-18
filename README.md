@@ -160,4 +160,4 @@ Submission ZIP:
 2026201064_MERN_Lab.zip
 ```
 
-Do not include `node_modules` or `dist` directories.
+Have not included `node_modules` or `dist` directories.
